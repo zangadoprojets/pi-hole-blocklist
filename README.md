@@ -1,0 +1,1 @@
+# pi-hole-block-list
