@@ -16,7 +16,7 @@ Windows telemetry | Bloqueia toda a telemetria do SO Windows | 1.012 | [list](ht
 ## Pré-requisitos 📋
 Você só precisa ter o serviço Pi-Hole instalado, consulte o site oficil para mais detalhes.
 
-[Pi-Hole](https://github.com/zangadoprojets/pi-hole-block-list/tree/main/readme_imagenes/logo-pi-hole.png)<br/><br/>
+![Pi-Hole](https://github.com/zangadoprojets/pi-hole-block-list/tree/main/readme_imagenes/logo-pi-hole.png)<br/><br/>
 
 https://pi-hole.net/
 <br/><br/>
@@ -24,8 +24,8 @@ https://pi-hole.net/
 ## Como instalar e usar? 🔧
 Na tabela descritiva cada lista de bloqueio tem um link RAW, esse endereço deve ser copiado e depois adicionado às listas de bloqueio nas configurações do host pi-hole.<br/>
 
-1º Acesse o painel de controle, do lado esquerdo clique em `Group Management` e depois em `Adlist`.`<br/><br/>
-![Imagen 1](https://github.com/zangadoprojets/pi-hole-block-list/tree/main/readme_imagenes/group_management.png)<br/><br/><br/>
+1º Acesse o painel de controle, do lado esquerdo clique em `Group Management` e depois em `Adlist`.<br/><br/>
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif"/><br/><br/><br/>
 2º	Uma vez dentro, cole a `URL` no campo `Address` e pressione o botão `Add` para adicioná-lo. (Repita para cada lista que queremos adicionar)<br/><br/>
 ![Imagen 2](https://github.com/zangadoprojets/pi-hole-block-list/tree/main/readme_imagenes/address_add.png)<br/><br/><br/>
 3º	No painel esquerdo clique em `Tools` e depois em `Update Gravity`, dentro da aba pressione o botão `Update`.<br/><br/>
