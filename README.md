@@ -11,7 +11,7 @@ Ads and trackers | Bloqueia anúncios e rastreadores | 675.276 | [list](https://
 Mining pages | Bloqueia páginas e serviços de mineração| 34.539 | [list](https://github.com/zangadoprojets/pi-hole-block-list/blob/main/Mining%20pages.txt) | 
 Pages with porn | Bloqueia páginas com conteúdo XXX Porn | 2.048.596 | [list](https://github.com/zangadoprojets/pi-hole-block-list/blob/main/Porn%20pages.txt) | 
 Windows telemetry | Bloqueia toda a telemetria do SO Windows | 1.012 | [list](https://github.com/zangadoprojets/pi-hole-block-list/blob/main/Windows%20telemetry.txt) |
-<br/>
+<br/>  
 
 ## Pré-requisitos 📋
 Você só precisa ter o serviço Pi-Hole instalado, consulte o site oficil para mais detalhes.
