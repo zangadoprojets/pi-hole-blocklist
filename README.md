@@ -48,5 +48,5 @@ As listas de bloqueio disponibilizadas são `arquivos de hosts` para bloquear o 
 <br/><br/>
 
 ## Licença 📄
-O conteúdo deste repositório está licenciado sob [GNU General Public License v3.0](https://github.com/zangadoprojets/pi-hole-block-list/blob/main/LICENSE).
+O conteúdo deste repositório está licenciado sob [MIT License](https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/LICENSE).
 <br/><br/>
