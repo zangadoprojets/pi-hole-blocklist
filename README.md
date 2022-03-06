@@ -1,4 +1,4 @@
-# Blocklist para Pi-hole
+# Lista de Bloqueio (Blocklist) para Pi-hole
 Neste repositório encontram-se listas de bloqueios personalizados para o serviço PiHole. (Pi-hole é um aplicativo para bloqueio de anúncios e rastreadores na Internet que atua como um sumidero de DNS). Você pode usar em serviços semelhantes, AdGuard, Ublock, Hosts em geral.
 <br/><br/>
 ## Porque usar esta listas de DNS/hosts 🔍
@@ -38,7 +38,7 @@ Seu apoio me ajudará a manter o projeto em andamento e manter listas atualizada
 - Compartilhe com outros usuários
 <br/>
 
-## Autor/es ✒️
+## Autor ✒️
 Este repositório é público, foi utilizado com base o repositório [Amdr0meda](https://github.com/Amdr0meda/Blocklist_Pi_Hole)
 <br/><br/>
 
@@ -46,6 +46,6 @@ Este repositório é público, foi utilizado com base o repositório [Amdr0meda]
 As listas de bloqueio disponibilizadas são `arquivos de hosts` para bloquear o acesso a domínios/sites. Se você não sabe como funciona, leia a seção de instalação e uso. Tente isso por sua conta e risco, não me responsabilizo por qualquer dano, perda ou problema causado.
 <br/><br/>
 
-## Licencia 📄
+## Licença 📄
 O conteúdo deste repositório está licenciado sob [GNU General Public License v3.0](https://github.com/zangadoprojets/pi-hole-block-list/blob/main/LICENSE).
 <br/><br/>
