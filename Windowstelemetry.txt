@@ -1,7 +1,7 @@
 #--------------------------------------------------------#
-# Last Update: 10-10-2021 with 1.012 domains
-# MIT License: Copyright (c) 2021 Amdr0meda
-# https://github.com/amdr0meda/Blocklist_Pi_Hole
+# Last Update: 06-03-2022 with 1.012 domains
+# MIT License: Copyright (c) 2022 ZangadoProjets
+# https://github.com/zangadoprojets/pi-hole-blocklist
 # Report if you find a problem or want to add an address.
 #--------------------------------------------------------#
 
