@@ -7,16 +7,16 @@ Este projeto visa unificar listas de bloqueio de DNS adicionando contribuições
 ## Detalhes das listas de bloqueios (BlackLists) 📖
 |Nome da Lista|Breve Descrição|Número de entradas|RAW|
 |:-:|:-:|:--:|:--:|
-Ads and trackers | Bloqueia anúncios e rastreadores | 675.276 | [list](https://github.com/zangadoprojets/pi-hole-block-list/blob/main/Ads%20and%20trackers.txt) | 
-Mining pages | Bloqueia páginas e serviços de mineração| 34.539 | [list](https://github.com/zangadoprojets/pi-hole-block-list/blob/main/Mining%20pages.txt) | 
-Pages with porn | Bloqueia páginas com conteúdo XXX Porn | 2.048.596 | [list](https://github.com/zangadoprojets/pi-hole-block-list/blob/main/Porn%20pages.txt) | 
-Windows telemetry | Bloqueia toda a telemetria do SO Windows | 1.012 | [list](https://github.com/zangadoprojets/pi-hole-block-list/blob/main/Windows%20telemetry.txt) |
+Ads and trackers | Bloqueia anúncios e rastreadores | 675.276 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Adsandtrackers.txt) | 
+Mining pages | Bloqueia páginas e serviços de mineração| 34.539 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Miningpages.txt) | 
+Pages with porn | Bloqueia páginas com conteúdo XXX Porn | 2.048.596 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Pornpages.txt) | 
+Windows telemetry | Bloqueia toda a telemetria do SO Windows | 1.012 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Windowstelemetry.txt) |
 <br/>  
 
 ## Pré-requisitos 📋
 Você só precisa ter o serviço Pi-Hole instalado, consulte o site oficil para mais detalhes.
 
-<img src="https://github.com/zangadoprojets/pi-hole-block-list/blob/main/readme_imagens/pi-hole.png" width="250px" /><br/><br/>
+<img src="https://github.com/zangadoprojets/pi-hole-block-list/blob/main/readme_imagens/pi-hole.png" width="100px" /><br/><br/>
 
 https://pi-hole.net/
 <br/><br/>
