@@ -16,7 +16,7 @@ Windows telemetry | Bloqueia toda a telemetria do SO Windows | 1.012 | [list](ht
 ## Pré-requisitos 📋
 Você só precisa ter o serviço Pi-Hole instalado, consulte o site oficil para mais detalhes.
 
-<a href="https://pi-hole.net/"><img src="https://github.com/zangadoprojets/pi-hole-block-list/blob/main/readme_imagens/pi-hole.png" alt="Pi-Hole" width="100px" />
+<a href="https://pi-hole.net/"><img src="https://github.com/zangadoprojets/pi-hole-block-list/blob/main/readme_imagens/pi-hole.png" alt="Pi-Hole" width="100px" /><br/>
 https://pi-hole.net/
 <br/><br/>
 
