@@ -1,6 +1,6 @@
 <a href="https://pi-hole.net/"><img src="https://github.com/zangadoprojets/pi-hole-block-list/blob/main/readme_imagens/PiHoleb.png" width="600px" /><br/><br/>
 
-# Lista de Bloqueio (Blocklist) para Pi-hole
+# Lista de Bloqueio (Blocklist) para Pi-hole 
 Neste repositório encontram-se listas de bloqueios personalizados para o serviço PiHole. (Pi-hole é um aplicativo para bloqueio de anúncios e rastreadores na Internet que atua como um sumidero de DNS). Você pode usar em serviços semelhantes, AdGuard, Ublock, Hosts em geral.
 <br/><br/>
 ## Porque usar esta listas de DNS/hosts 🔍
@@ -11,7 +11,7 @@ Este projeto visa unificar listas de bloqueio de DNS adicionando contribuições
 |:-:|:-:|:--:|:--:|
 Ads and trackers | Bloqueia anúncios e rastreadores | 675.276 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Adsandtrackers.txt) | 
 Mining pages | Bloqueia páginas e serviços de mineração| 34.539 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Miningpages.txt) | 
-Pages with porn | Bloqueia páginas com conteúdo XXX Porn | 2.048.596 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Pornpages.txt) | 
+Pages with porn | Bloqueia páginas com conteúdo XXX Porn | 2.060.355 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Pornpages.txt) | 
 Windows telemetry | Bloqueia toda a telemetria do SO Windows | 1.012 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Windowstelemetry.txt) |
 <br/>  
 
