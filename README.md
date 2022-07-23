@@ -15,7 +15,7 @@ Pages with porn | Bloqueia páginas com conteúdo XXX Porn | 2.060.397 | [list](
 Windows telemetry | Bloqueia toda a telemetria do SO Windows | 1.012 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Windowstelemetry.txt) |
 <br/>  
 
-# Lista Externas (Blocklist) para Pi-hole 
+# Listas Externas (Blocklist) para Pi-hole 
 Neste repositório encontram-se listas de outros projetos com listas de bloqueios personalizados para o serviço PiHole.
 <br/><br/>
 ## Projetos com Listas de bloqueios (BlackLists) 📖
