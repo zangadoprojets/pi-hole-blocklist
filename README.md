@@ -13,7 +13,7 @@ Ads and trackers | Bloqueia anúncios e rastreadores | 675.276 | [list](https://
 Mining pages | Bloqueia páginas e serviços de mineração| 34.539 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Miningpages.txt) | 
 Pages with porn | Bloqueia páginas com conteúdo XXX Porn | 2.060.397 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Pornpages.txt) | 
 Windows telemetry | Bloqueia toda a telemetria do SO Windows | 1.012 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Windowstelemetry.txt) |
-Block Ads Youtube | Bloqueia anúncios do youtube | 0000 | [list](https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt) |
+Block Ads Youtube | Bloqueia anúncios do youtube | 9245 | [list](https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt) |
 <br/>  
 
 # Listas Externas (Blocklist) para Pi-hole 
