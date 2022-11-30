@@ -2018,7 +2018,7 @@ dynatrace.com
 dynatracesaas.com
 dyntrk.com
 e-contenta.com
-e-goi.com,domain
+e-goi.com
 e-pagerank.net
 e-referrer.com
 e-webtrack.net
@@ -3979,7 +3979,6 @@ protectcrev.com
 protectsubrev.com
 revcatch.com
 revprotect.com
-mkto-*.com
 ! Notification servers (Tracking/Fingerprinting users)
 accengage.net
 actirinius.com
@@ -4093,7 +4092,6 @@ spideraf.com
 .n.2.1.js
 .n.2.1.l50.js
 .n.2.1.l60.js
-/cdn-cgi/pe/bag2?r[]=*eth-pocket.de
 185.165.169.108
 185.193.38.148
 35.194.26.233
@@ -4172,7 +4170,7 @@ dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 dnsseed.emzy.de
 dontbeevils.de
-duckdns.org,websocket
+duckdns.org
 easyhash.de
 easyhash.io
 eth-pocket.com
@@ -4233,7 +4231,6 @@ mine.nahnoji.cz
 mine.torrent.pw
 minerad.com
 mineralt.io
-minero-proxy-*.sh
 minero.cc
 minero.pw
 minescripts.info
