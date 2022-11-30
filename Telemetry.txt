@@ -1,5 +1,5 @@
 #--------------------------------------------------------#
-# Last Update: 29-11-2022 with 7.946 domains
+# Last Update: 30-11-2022 with 7.940 domains
 # MIT License: Copyright (c) 2022 ZangadoProjets
 # https://github.com/zangadoprojets/pi-hole-blocklist
 # Report if you find a problem or want to add an address.
@@ -1020,11 +1020,6 @@ ztd.dds.microsoft.com
 
 #  ATUALIZAÇÃO 29-11-2022  #
 
-||1cros.net^
-||2022welcome.com^
-||2l6ddsmnm.de^
-||2smt6mfgo.de^
-||31daa5lnq.de^
 ||3gl.net^
 ||520886.xyz^
 ||a1webstrategy.com^
@@ -5566,7 +5561,6 @@ ztd.dds.microsoft.com
 ||zipperxray.com^
 ||zippywind.com^
 ||zlp6s.pw^$third-party
-
 sanalytics.spark.co.nz
 analytics.metro.com.kz
 smetrics.airbank.cz
