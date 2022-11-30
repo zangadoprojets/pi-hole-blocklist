@@ -9,10 +9,11 @@ Este projeto visa unificar listas de bloqueio de DNS adicionando contribuições
 ## Detalhes das listas de bloqueios (BlackLists) 📖
 |Nome da Lista|Breve Descrição|Número de entradas|RAW|
 |:-:|:-:|:--:|:--:|
-Ads and trackers | Bloqueia anúncios e rastreadores | 675.276 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Adsandtrackers.txt) | 
+Ads and trackers | Bloqueia anúncios e rastreadores | 827.525 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Adsandtrackers.txt) | 
 Mining pages | Bloqueia páginas e serviços de mineração| 34.539 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Miningpages.txt) | 
 Pages with porn | Bloqueia páginas com conteúdo XXX Porn | 2.060.397 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Pornpages.txt) | 
-Windows telemetry | Bloqueia toda a telemetria do SO Windows | 1.012 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Windowstelemetry.txt) |
+Telemetry | Bloqueia telemetria do SO Windows e outros Sistemas | 7.946 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Telemetry.txt) |
+Pages Malicious  | Bloqueia domínios com vírus | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Malicious.txt) |
 Block Ads Youtube | Bloqueia anúncios do youtube | 16844 | [list](https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt) |
 <br/>  
 
@@ -25,6 +26,8 @@ Neste repositório encontram-se listas de outros projetos com listas de bloqueio
 Block List Project | Várias Listas de Bloqueios | [list](https://github.com/blocklistproject/Lists) | 
 Avoidthehack | Várias Listas de Bloqueios| [list](https://avoidthehack.com/best-pihole-blocklists) | 
 Pi-hole Blocklists | Várias Listas de Bloqueios | [list](https://github.com/topics/pihole-blocklists) | 
+The Big Blocklist Collection | Várias Listas de Bloqueios | [list](https://github.com/sefinek24/PiHole-Blocklist-Collection)|
+Awesome Privacy | Listas com foco em Privacidade | [list](https://github.com/pluja/awesome-privacy) |
 Firebog | Várias Listas de Bloqueios | [list](https://firebog.net/) |
 <br/>  
 
