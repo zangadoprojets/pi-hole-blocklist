@@ -58,7 +58,7 @@ Seu apoio me ajudará a manter o projeto em andamento e manter listas atualizada
 <br/>
 
 ## Autor ✒️
-Este repositório é público, foi utilizado com base o repositório [Amdr0meda](https://github.com/Amdr0meda/Blocklist_Pi_Hole).
+Este repositório é público e todos podem usufruir sem moderação!
 <br/><br/>
 
 ## Isenção de responsabilidade 🚨
