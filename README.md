@@ -48,6 +48,7 @@ Na tabela descritiva cada lista de bloqueio tem um link RAW, esse endereço deve
 ![Imagen 2](https://github.com/zangadoprojets/pi-hole-block-list/blob/main/readme_imagens/address_add.png)<br/><br/><br/>
 3º	No painel esquerdo clique em `Tools` e depois em `Update Gravity`, dentro da aba pressione o botão `Update`.<br/><br/>
 ![Imagen 3](https://github.com/zangadoprojets/pi-hole-block-list/blob/main/readme_imagens/tools_update_gravity_update.png)<br/><br/>
+Observação: Caso der erro ou lentidão na atualiação via interface web, atualizar com o comando "pihole -g" via terminal.
 
 ## Como colaborar com a lista de bloqueio 🙋
 Seu apoio me ajudará a manter o projeto em andamento e manter listas atualizadas e com qualidade. Você pode apoiar de várias maneiras:
