@@ -9,17 +9,17 @@ Este projeto visa unificar listas de bloqueio de DNS adicionando contribuições
 ## Detalhes das listas de bloqueios (BlackLists) 📖
 |Nome da Lista|Breve Descrição|Número de entradas|RAW|
 |:-:|:-:|:--:|:--:|
-Ads and trackers | Bloqueia anúncios e rastreadores | 822.894 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Adsandtrackers.txt) | 
+Ads and trackers | Bloqueia anúncios e rastreadores | 822.487 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Adsandtrackers.txt) | 
 Mining pages | Bloqueia páginas e serviços de mineração| 34.539 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Miningpages.txt) | 
-Pages with porn | Bloqueia páginas com conteúdo XXX Porn | 2.060.397 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Pornpages.txt) | 
-Telemetry | Bloqueia telemetria do SO Windows e outros Sistemas | 7.946 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Telemetry.txt) |
-Pages Malicious  | Bloqueia domínios com vírus | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Malicious.txt) |
-Block Ransomware  | Bloqueia domínios com ransomware | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/ransomware.txt) |
-Block Spam | Bloqueia domínios com e-mail spam | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/spam.mails.txt) |
-Block App TikTok | Bloqueia aplicativo TikTok | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/tiktok.txt) |
-Block App Facebook | Bloqueia aplicativo Facebook | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/facebook.txt) |
-Block App WhatsApp | Bloqueia aplicativo WhatsApp | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/whatsapp.txt) |
-Block Ads Youtube | Bloqueia anúncios do youtube | 16844 | [list](https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt) |
+Pages with porn | Bloqueia páginas com conteúdo XXX Porn | 2.072.788 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Pornpages.txt) | 
+Telemetry | Bloqueia telemetria do SO Windows e outros Sistemas | 7.930 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Telemetry.txt) |
+Pages Malicious  | Bloqueia domínios com vírus | 169.600 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Malicious.txt) |
+Block Ransomware  | Bloqueia domínios com ransomware | 1.904 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/ransomware.txt) |
+Block Spam | Bloqueia domínios com e-mail spam | 209.320 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/spam.mails.txt) |
+Block App TikTok | Bloqueia aplicativo TikTok | 9.645 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/tiktok.txt) |
+Block App Facebook | Bloqueia aplicativo Facebook | 23.338 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/facebook.txt) |
+Block App WhatsApp | Bloqueia aplicativo WhatsApp | 475 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/whatsapp.txt) |
+Block Ads Youtube | Bloqueia anúncios do youtube | 41.125 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/youtube.txt) |
 <br/>  
 
 # Listas Externas (Blocklist) para Pi-hole 
