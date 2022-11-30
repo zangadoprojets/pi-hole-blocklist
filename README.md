@@ -14,6 +14,7 @@ Mining pages | Bloqueia páginas e serviços de mineração| 34.539 | [list](htt
 Pages with porn | Bloqueia páginas com conteúdo XXX Porn | 2.060.397 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Pornpages.txt) | 
 Telemetry | Bloqueia telemetria do SO Windows e outros Sistemas | 7.946 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Telemetry.txt) |
 Pages Malicious  | Bloqueia domínios com vírus | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Malicious.txt) |
+Block Ransomware  | Bloqueia domínios com ransomware | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/ransomware.txt) |
 Block Ads Youtube | Bloqueia anúncios do youtube | 16844 | [list](https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt) |
 <br/>  
 
