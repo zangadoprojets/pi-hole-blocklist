@@ -28,6 +28,8 @@ Avoidthehack | Várias Listas de Bloqueios| [list](https://avoidthehack.com/best
 Pi-hole Blocklists | Várias Listas de Bloqueios | [list](https://github.com/topics/pihole-blocklists) | 
 The Big Blocklist Collection | Várias Listas de Bloqueios | [list](https://github.com/sefinek24/PiHole-Blocklist-Collection)|
 Awesome Privacy | Listas com foco em Privacidade | [list](https://github.com/pluja/awesome-privacy) |
+Blocklists | Listas Midia Social, Jogos | [list](https://github.com/nickoppen/pihole-blocklists) |
+Listas de sites de mídia social, mensagens e agora jogos 
 Firebog | Várias Listas de Bloqueios | [list](https://firebog.net/) |
 <br/>  
 
