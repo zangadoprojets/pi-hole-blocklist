@@ -16,6 +16,8 @@ Telemetry | Bloqueia telemetria do SO Windows e outros Sistemas | 7.946 | [list]
 Pages Malicious  | Bloqueia domínios com vírus | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Malicious.txt) |
 Block Ransomware  | Bloqueia domínios com ransomware | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/ransomware.txt) |
 Block Spam | Bloqueia domínios com e-mail spam | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/spam.mails.txt) |
+Block App TikTok | Bloqueia aplicativo TikTok | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/tiktok.txt) |
+Block App Facebook | Bloqueia aplicativo Facebook | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/facebook.txt) |
 Block Ads Youtube | Bloqueia anúncios do youtube | 16844 | [list](https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt) |
 <br/>  
 
