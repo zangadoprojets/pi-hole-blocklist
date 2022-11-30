@@ -18,6 +18,7 @@ Block Ransomware  | Bloqueia domínios com ransomware | 158.463 | [list](https:/
 Block Spam | Bloqueia domínios com e-mail spam | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/spam.mails.txt) |
 Block App TikTok | Bloqueia aplicativo TikTok | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/tiktok.txt) |
 Block App Facebook | Bloqueia aplicativo Facebook | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/facebook.txt) |
+Block App WhatsApp | Bloqueia aplicativo WhatsApp | 158.463 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/whatsapp.txt) |
 Block Ads Youtube | Bloqueia anúncios do youtube | 16844 | [list](https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt) |
 <br/>  
 

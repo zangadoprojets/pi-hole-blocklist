@@ -1,5 +1,5 @@
 #--------------------------------------------------------#
-# Last Update: 30-11-2022 with 827.525 domains
+# Last Update: 30-11-2022 with 23.338 domains
 # MIT License: Copyright (c) 2022 ZangadoProjets
 # https://github.com/zangadoprojets/pi-hole-blocklist
 # Report if you find a problem or want to add an address.
@@ -23343,7 +23343,3 @@
 0.0.0.0 fb.com
 0.0.0.0 newsroom.fb.com
 0.0.0.0 investor.fb.com
-
-
-
-
