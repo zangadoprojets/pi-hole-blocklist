@@ -1415,7 +1415,7 @@ admantx.com
 admaster.com.cn
 admetric.io
 admother.com
-adobedtm.com,domain=~adobe.com
+adobedtm.com
 adobetag.com
 adobetarget.com
 adoftheyear.com
@@ -2014,11 +2014,11 @@ durationmedia.net
 dvnfo.com
 dynameex.com
 dynatrace-managed.com
-dynatrace.com,domain=~dynatracelabs.com
+dynatrace.com
 dynatracesaas.com
 dyntrk.com
 e-contenta.com
-e-goi.com,domain=~e-goi.com.br|~e-goi.pt
+e-goi.com,domain
 e-pagerank.net
 e-referrer.com
 e-webtrack.net
@@ -2263,7 +2263,7 @@ getdrip.com
 getfreebl.com
 getpublica.com
 getrockerbox.com
-getsentry.com,domain=~sentry.dev|~sentry.io
+getsentry.com
 getsmartcontent.com
 getsmartlook.com
 getstat.net
@@ -2274,7 +2274,7 @@ gglscr.online
 giddyuptrk.com
 gigcount.com
 gim.co.il
-glancecdn.net,domain=~glance.net
+glancecdn.net
 glanceguide.com
 glassboxcdn.com
 glassboxdigital.io
@@ -2446,7 +2446,7 @@ inspectlet.com
 instadia.net
 instana.io
 instant.page
-instapage.com,domain=~pagedemo.co
+instapage.com
 instapagemetrics.com
 instore.biz
 intelimet.com
@@ -2545,7 +2545,7 @@ kameleoon.eu
 kampyle.com
 kantartns.lt
 kaxsdc.com
-keen.io,domain=~keen.github.io|~keen.io
+keen.io
 keyade.com
 keymetric.net
 keytiles.com
@@ -3002,7 +3002,7 @@ personyze.com
 peruse.ai
 petametrics.com
 pghub.io
-pgs.io,domain=~publicgood.com
+pgs.io
 phonalytics.com
 phone-analytics.com
 photorank.me
@@ -3019,7 +3019,7 @@ pinpoll.com
 pipfire.com
 piratepx.com
 pirsch.io
-piwik.pro,domain=~clearcode.cc|~clearcode.pl|~piwikpro.de
+piwik.pro
 pixel.ad
 pixel.watch
 pixeleze.com
@@ -3128,7 +3128,7 @@ quantcount.com
 quantummetric.com
 quartic.pl
 qubitproducts.com
-questionpro.com,domain=~questionpro.com.au|~questionpro.eu
+questionpro.com
 questradeaffiliates.com
 quillion.com
 quintelligence.com
@@ -3193,7 +3193,7 @@ requestmetrics.com
 res-x.com
 research-tool.com
 researchintel.com
-researchnow.co.uk,domain=~dynata.com
+researchnow.co.uk
 resetdigital.co
 reson8.com
 responsetap.com
@@ -3310,14 +3310,14 @@ selectmedia.asia
 sellebrity.com
 sellpoint.net
 sellpoints.com
-sellsy.com,domain=~sellsy.fr
+sellsy.com
 semantic-finder.com
 semanticverses.com
 semasio.net
 sematext.com
 sendtraffic.com
 sensorsdata.cn
-sentry-cdn.com,domain=~sentry.dev|~sentry.io
+sentry-cdn.com
 sentry.io
 seomonitor.ro
 seomoz.org
@@ -3353,7 +3353,7 @@ signup-way.com
 silverpop.com
 silverpush.co
 simonsignal.com
-simpleanalytics.com,domain=~simpleanalyticscdn.com
+simpleanalytics.com
 simpleanalytics.io
 simpleanalyticsbadge.com
 simpleanalyticscdn.com
@@ -3520,7 +3520,7 @@ submitnet.net
 successfultogether.co.uk
 sugodeku.com
 sumo.com
-sumologic.com,domain=~sumologic.net
+sumologic.com
 sumome.com
 supercounters.com
 superstats.com
@@ -3948,7 +3948,7 @@ your-counter.be
 youramigo.com
 youvisit.com
 yu987.com
-ywxi.net,domain=~trustedsite.com
+ywxi.net
 z444o.com
 zanox-affiliate.de
 zanox.com
@@ -4111,7 +4111,7 @@ altpool.pro
 analytics.blue
 andlache.com
 anybest.site
-authedwebmine.cz,domain=~webmine.cz
+authedwebmine.cz
 averoconnector.com
 axoncoho.tk
 bablace.com
