@@ -28,13 +28,14 @@ Neste repositório encontram-se listas de outros projetos com listas de bloqueio
 ## Projetos com Listas de bloqueios (BlackLists) 📖
 |Nome da Lista|Breve Descrição|RAW|
 |:-:|:-:|:--:
+Firebog | Várias Listas de Bloqueios | [list](https://firebog.net/) |
 Block List Project | Várias Listas de Bloqueios | [list](https://github.com/blocklistproject/Lists) | 
 Avoidthehack | Várias Listas de Bloqueios| [list](https://avoidthehack.com/best-pihole-blocklists) | 
 Pi-hole Blocklists | Várias Listas de Bloqueios | [list](https://github.com/topics/pihole-blocklists) | 
 The Big Blocklist Collection | Várias Listas de Bloqueios | [list](https://github.com/sefinek24/PiHole-Blocklist-Collection)|
 Awesome Privacy | Listas com foco em Privacidade | [list](https://github.com/pluja/awesome-privacy) |
 Blocklists | Listas Midia Social, Jogos | [list](https://github.com/nickoppen/pihole-blocklists) |
-Firebog | Várias Listas de Bloqueios | [list](https://firebog.net/) |
+RegEx Filters | Filtros RegEX | [list](https://github.com/slyfox1186/pihole-regex) |
 <br/>  
 
 
