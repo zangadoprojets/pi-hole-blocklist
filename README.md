@@ -42,7 +42,7 @@ Neste repositório encontram-se listas de outros projetos com listas de bloqueio
 Você só precisa ter o serviço Pi-Hole instalado, consulte o site oficil para mais detalhes.
 
 <a href="https://pi-hole.net"><img src="https://github.com/zangadoprojets/pi-hole-block-list/blob/main/readme_imagens/pi-hole.png" alt="Pi-Hole" width="100px" /><br>
-https://pi-hole.net/
+https://pi-hole.net
 
 ## Como instalar e usar? 🔧
 Na tabela descritiva cada lista de bloqueio tem um link RAW, esse endereço deve ser copiado e depois adicionado às listas de bloqueio nas configurações do host pi-hole.<br>
