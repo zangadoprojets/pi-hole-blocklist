@@ -1,10 +1,3 @@
-#--------------------------------------------------------#
-# Last Update: 30-11-2022 with 1.904 domains
-# MIT License: Copyright (c) 2022 ZangadoProjets
-# https://github.com/zangadoprojets/pi-hole-blocklist
-# Report if you find a problem or want to add an address.
-#--------------------------------------------------------#
-
  25z5g623wpqpdwis.onion.to
  27c73bq66y4xqoh7.dorfact.at
  27lelchgcvs2wpm7.3lhjyx.top
