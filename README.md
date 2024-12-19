@@ -8,10 +8,10 @@ Neste repositório encontram-se listas de bloqueios personalizados para o servi�
 ## Porque usar esta listas de DNS/hosts 🔍
 Este projeto visa unificar listas de bloqueio de DNS adicionando contribuições e colaborações da comunidade, removendo falsos positivos, mantendo-os livres de bugs, com qualidade e  otimizados. Convido você a me ajudar nesta tarefa.
 
-## Detalhes das listas de bloqueios (BlackLists) 📖
+## Detalhes das listas de bloqueios (BlackLists) - ATUALIZADO DIA 18/12/2024 📖
 | Nome da Lista      | Breve Descrição                                     | Número de entradas | RAW                                                                                      |
 |--------------------|-----------------------------------------------------|--------------------|------------------------------------------------------------------------------------------|
-| Ads and trackers   | Bloqueia anúncios e rastreadores                    | 822.487            | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Adsandtrackers.txt) | 
+| Ads and trackers   | Bloqueia anúncios e rastreadores                    | 822.253            | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Adsandtrackers.txt) | 
 | Mining pages       | Bloqueia páginas e serviços de mineração            | 34.539             | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Miningpages.txt)    | 
 | Pages with porn    | Bloqueia páginas com conteúdo XXX Porn              | 2.072.788          | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Pornpages.txt)      | 
 | Telemetry          | Bloqueia telemetria do SO Windows e outros Sistemas | 7.930              | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Telemetry.txt)      |
