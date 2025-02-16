@@ -642,7 +642,6 @@ geover-prod.do.dsp.mp.microsoft.com
 gfe.nvidia.com
 gfswl.geforce.com
 go.microsoft.akadns.net
-go.microsoft.com
 googleads4.g.doubleclick.net
 gpla1.wac.v2cdn.net
 h1.msn.com
