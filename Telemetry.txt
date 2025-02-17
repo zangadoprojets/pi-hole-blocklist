@@ -158,7 +158,6 @@ bn4sch101123110.wns.windows.com
 bn4sch101123202.wns.windows.com
 bn4sch102110124.wns.windows.com
 bnsch020022361.wns.windows.com
-browser.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
 bs.serving-sys.com
 by3301-a.1drv.com
