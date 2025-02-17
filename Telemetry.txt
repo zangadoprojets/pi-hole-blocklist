@@ -768,7 +768,6 @@ manage.devcenter.microsoft.com
 maps.windows.com
 mediaredirect.microsoft.com
 microsoft-hohm.com
-mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 mobileads.msn.com
 modern.watson.data.microsoft.com
