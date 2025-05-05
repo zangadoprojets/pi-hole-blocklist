@@ -564,7 +564,6 @@ de-v20.events.data.microsoft.com
 deploy.static.akamaitechnologies.com
 dev.virtualearth.net
 devcenter.watson.microsoft.com
-device.auth.xboxlive.com
 df.telemetry.microsoft.com
 diagnostics.support.microsoft.akadns.net
 diagnostics.support.microsoft.com
