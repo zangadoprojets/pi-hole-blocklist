@@ -863,7 +863,6 @@ skydrive.wns.windows.com
 sls.update.microsoft.com
 sls.update.microsoft.com.akadns.net
 sls.update.microsoft.com.nsatc.net
-slscr.update.microsoft.com
 sm.mcafee.com
 sn3301-c.1drv.com
 sn3301-e.1drv.com
