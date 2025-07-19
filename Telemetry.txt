@@ -860,9 +860,6 @@ siweb.microsoft.akadns.net
 skyapi.live.net
 skyapi.skyprod.akadns.net
 skydrive.wns.windows.com
-sls.update.microsoft.com
-sls.update.microsoft.com.akadns.net
-sls.update.microsoft.com.nsatc.net
 sm.mcafee.com
 sn3301-c.1drv.com
 sn3301-e.1drv.com
