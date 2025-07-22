@@ -898,7 +898,6 @@ statsfe1.ws.microsoft.com.nsatc.net
 statsfe2.update.microsoft.com.akadns.net
 statsfe2.ws.microsoft.com
 statsfe2.ws.microsoft.com.nsatc.net
-store-images.s-microsoft.com
 storecatalogrevocation.storequality.microsoft.com
 su3.mcafee.com
 support.microsoft.com
