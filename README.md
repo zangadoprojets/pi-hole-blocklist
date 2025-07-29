@@ -22,6 +22,7 @@ Este projeto visa unificar listas de bloqueio de DNS adicionando contribuições
 | Block App Facebook | Bloqueia aplicativo Facebook                        | 24.634             | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/facebook.txt)       |
 | Block App WhatsApp | Bloqueia aplicativo WhatsApp                        | 475                | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/whatsapp.txt)       |
 | Block Ads Youtube  | Bloqueia anúncios do youtube                        | 41.125             | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/youtube.txt)        |
+| Block Bets         | Bloqueia anúncios do youtube                        | 35                 | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/bets.txt)        |
 
 # Listas Externas (Blocklist) para Pi-hole 
 Neste repositório encontram-se listas de outros projetos com listas de bloqueios personalizados para o serviço PiHole.
