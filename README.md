@@ -8,7 +8,7 @@ Neste repositório encontram-se listas de bloqueios personalizados para o servi�
 ## Porque usar esta listas de DNS/hosts 🔍
 Este projeto visa unificar listas de bloqueio de DNS adicionando contribuições e colaborações da comunidade, removendo falsos positivos, mantendo-os livres de bugs, com qualidade e  otimizados. Convido você a me ajudar nesta tarefa.
 
-## Detalhes das listas de bloqueios (BlackLists) - UPDATE DIA 18/12/2024 📖
+## Detalhes das listas de bloqueios (BlackLists) - UPDATE DIA 28/07/2025 📖
 | Nome da Lista      | Breve Descrição                                     | Número de entradas | RAW                                                                                      |
 |--------------------|-----------------------------------------------------|--------------------|------------------------------------------------------------------------------------------|
 | Ads and trackers   | Bloqueia anúncios e rastreadores                    | 822.208            | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Adsandtrackers.txt) | 
