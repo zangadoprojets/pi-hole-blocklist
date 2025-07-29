@@ -22,7 +22,7 @@ Este projeto visa unificar listas de bloqueio de DNS adicionando contribuições
 | Block App Facebook | Bloqueia aplicativo Facebook                        | 24.634             | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/facebook.txt)       |
 | Block App WhatsApp | Bloqueia aplicativo WhatsApp                        | 475                | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/whatsapp.txt)       |
 | Block Ads Youtube  | Bloqueia anúncios do youtube                        | 41.125             | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/youtube.txt)        |
-| Block Bets         | Bloqueia anúncios do youtube                        | 2067               | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Bets.txt)        |
+| Block Bets         | Bloqueia anúncios do youtube                        | 211174             | [list](https://github.com/zangadoprojets/pi-hole-block-list/raw/main/Bets.txt)           |
 
 # Listas Externas (Blocklist) para Pi-hole 
 Neste repositório encontram-se listas de outros projetos com listas de bloqueios personalizados para o serviço PiHole.
@@ -32,12 +32,15 @@ Neste repositório encontram-se listas de outros projetos com listas de bloqueio
 |------------------------------|--------------------------------|------------------------------------------------------------------|
 | Firebog                      | Várias Listas de Bloqueios     | [list](https://firebog.net)                                      |
 | Block List Project           | Várias Listas de Bloqueios     | [list](https://github.com/blocklistproject/Lists)                | 
+| DNS Blocklist                | Várias Listas de Bloqueios     | [list](https://github.com/hagezi/dns-blocklists/)                |
 | Avoidthehack                 | Várias Listas de Bloqueios     | [list](https://avoidthehack.com/best-pihole-blocklists)          | 
 | Pi-hole Blocklists           | Várias Listas de Bloqueios     | [list](https://github.com/topics/pihole-blocklists)              | 
 | The Big Blocklist Collection | Várias Listas de Bloqueios     | [list](https://github.com/sefinek24/PiHole-Blocklist-Collection) |
 | Awesome Privacy              | Listas com foco em Privacidade | [list](https://github.com/pluja/awesome-privacy)                 |
 | Blocklists                   | Listas Midia Social, Jogos     | [list](https://github.com/nickoppen/pihole-blocklists)           |
 | RegEx Filters                | Filtros RegEX                  | [list](https://github.com/slyfox1186/pihole-regex)               |
+
+
 
 ## Pré-requisitos 📋
 Você só precisa ter o serviço Pi-Hole instalado, consulte o site oficil para mais detalhes.
