@@ -1,10 +1,3 @@
-#--------------------------------------------------------#
-# Last Update: 30-11-2022 with 7.930 domains
-# MIT License: Copyright (c) 2022 ZangadoProjets
-# https://github.com/zangadoprojets/pi-hole-blocklist
-# Report if you find a problem or want to add an address.
-#--------------------------------------------------------#
-
 BN1WNS2011508.wns.windows.com
 BN3SCH020011855.wns.windows.com
 BN3SCH020022331.wns.windows.com
@@ -165,7 +158,6 @@ bn4sch101123110.wns.windows.com
 bn4sch101123202.wns.windows.com
 bn4sch102110124.wns.windows.com
 bnsch020022361.wns.windows.com
-browser.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
 bs.serving-sys.com
 by3301-a.1drv.com
@@ -572,7 +564,6 @@ de-v20.events.data.microsoft.com
 deploy.static.akamaitechnologies.com
 dev.virtualearth.net
 devcenter.watson.microsoft.com
-device.auth.xboxlive.com
 df.telemetry.microsoft.com
 diagnostics.support.microsoft.akadns.net
 diagnostics.support.microsoft.com
@@ -649,7 +640,6 @@ geover-prod.do.dsp.mp.microsoft.com
 gfe.nvidia.com
 gfswl.geforce.com
 go.microsoft.akadns.net
-go.microsoft.com
 googleads4.g.doubleclick.net
 gpla1.wac.v2cdn.net
 h1.msn.com
@@ -777,7 +767,6 @@ manage.devcenter.microsoft.com
 maps.windows.com
 mediaredirect.microsoft.com
 microsoft-hohm.com
-mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 mobileads.msn.com
 modern.watson.data.microsoft.com
@@ -856,7 +845,6 @@ schemas.microsoft.akadns.net
 search.msn.com
 secure.adnxs.com
 secure.flashtalking.com
-self.events.data.microsoft.com
 services.wes.df.telemetry.microsoft.com
 settings-sandbox.data.glbdns2.microsoft.com
 settings-sandbox.data.microsoft.com
@@ -898,7 +886,6 @@ statsfe1.ws.microsoft.com.nsatc.net
 statsfe2.update.microsoft.com.akadns.net
 statsfe2.ws.microsoft.com
 statsfe2.ws.microsoft.com.nsatc.net
-store-images.s-microsoft.com
 storecatalogrevocation.storequality.microsoft.com
 su3.mcafee.com
 support.microsoft.com
