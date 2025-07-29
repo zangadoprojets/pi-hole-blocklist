@@ -21,8 +21,8 @@
 	47.252.102.50
 	47.252.50.101
 	47.252.50.157
-	akamai.net
-	api.tiktokv.com
+	akamai.net 
+	api.tiktokv.com 
 	api21-h2.tiktokv.com
 	api-h2.tiktokv.com
 	ib.tiktokv.com

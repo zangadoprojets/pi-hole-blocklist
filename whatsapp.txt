@@ -12,7 +12,7 @@
  b.whatsapp.com
  beta.whatsapp.com
  betablog.whatsapp.com
- betal.whatsapp.com
+ betal.whatsapp.com 
  blog.whatsapp.com
  blogl.whatsapp.com
  c.whatsapp.net
