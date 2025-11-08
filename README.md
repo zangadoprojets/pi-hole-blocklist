@@ -40,10 +40,18 @@ Neste repositório encontram-se listas de outros projetos com listas de bloqueio
 | Blocklists                   | Listas Midia Social, Jogos     | [list](https://github.com/nickoppen/pihole-blocklists)           |
 | RegEx Filters                | Filtros RegEX                  | [list](https://github.com/slyfox1186/pihole-regex)               |
 
+## Bloqueando casas de apostas brasileiras regulamentadas - (Expressão RegEX) 📖:
+As casas de apostas regulamentadas em território brasileiro possuem seus domínios terminados em **bet.br**. Pensando nisso, foi criado uma pequena e poderosa RegEX para bloqueá-las.
+
+Para isso, acesse o painel de controle, do lado esquerdo clique em `Group Management`, vá até `Domains` e clique em `RegEX Filter`.
+
+Por fim, basta criar um novo RegEX Filter com o valor **`*.bet.br`** e tipo **RegEX Deny**, como demonstrado abaixo.
+
+![betbr-regex-block](https://github.com/zangadoprojets/pi-hole-block-list/blob/main/readme_imagens/betbr-regex-blocker.gif)
 
 
 ## Pré-requisitos 📋
-Você só precisa ter o serviço Pi-Hole instalado, consulte o site oficil para mais detalhes.
+Você só precisa ter o serviço Pi-Hole instalado, consulte o site oficial para mais detalhes.
 
 <a href="https://pi-hole.net"><img src="https://github.com/zangadoprojets/pi-hole-block-list/blob/main/readme_imagens/pi-hole.png" alt="Pi-Hole" width="100px" /><br>
 https://pi-hole.net
